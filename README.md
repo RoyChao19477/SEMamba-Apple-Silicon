@@ -8,12 +8,14 @@ https://github.com/RoyChao19477/SEMamba.git
 
 ## Installation
 
+```python3
 conda env create -f environment.yml
 conda activate semamba_mac
 
 python -m pip install -r requirements.txt
 python -m pip install -e ./mamba_install_mps --no-deps
 python -m pip install transformers==4.49.0
+```
 
 ## Notes
 

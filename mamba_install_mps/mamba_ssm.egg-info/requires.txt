@@ -1,0 +1,4 @@
+torch
+packaging
+einops
+transformers
